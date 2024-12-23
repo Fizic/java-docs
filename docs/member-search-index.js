@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"example","c":"TaskAdder","l":"TaskAdder()","url":"%3Cinit%3E()"},{"p":"example","c":"TaskAdder","l":"TaskAdder(String)","url":"TaskAdder(java.lang.String)"}]
